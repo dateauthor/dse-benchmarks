@@ -12,7 +12,7 @@ The input uses a 1024 string pattern with length equal to 5, within 20 texts wit
 The metrics used in the benchmarks are in the .csv file. The columns represent the area, number of cycles and the power consumption, and the designspace.csv file mapping the architecture parameters of each design point.
 
 ## Results
-The results of the execution of the method (AMOSA) are summarized in the .pdf files. The values of each performance parameters of each execution are in the benchmarks' folders.
+The results of the execution of the method (AMOSA) are summarized in the .pdf files.
 
 stringsearch@1             |  stringsearch@2             |  stringsearch@4
 :-------------------------:|:-------------------------:|:-------------------------:|
